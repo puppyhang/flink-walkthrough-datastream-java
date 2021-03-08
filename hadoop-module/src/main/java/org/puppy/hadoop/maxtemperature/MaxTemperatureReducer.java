@@ -1,4 +1,4 @@
-package org.puppy.hadoop.reduce;
+package org.puppy.hadoop.maxtemperature;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
