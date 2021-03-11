@@ -10,6 +10,8 @@ import java.io.IOException;
 import java.util.Iterator;
 
 /**
+ * map的输出，相同的key分配到一个reducer上
+ *
  * @author puppy(陶江航 taojianghangdsjb @ smegz.cn)
  * @since 2021/3/8 14:50
  */
