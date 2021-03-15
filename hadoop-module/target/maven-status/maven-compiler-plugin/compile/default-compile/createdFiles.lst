@@ -1,0 +1,11 @@
+org\puppy\hadoop\maxtemperature\MaxTemperatureRunner.class
+org\puppy\hadoop\wordcount\WordCountMapper.class
+org\puppy\hadoop\hive\HiveServer2App.class
+org\puppy\hadoop\wordcount\WordCountReducer.class
+org\puppy\hadoop\log\AccessLogStatisticApplication.class
+org\puppy\hadoop\maxtemperature\MaxTemperatureReducer.class
+org\puppy\hadoop\wordcount\HadoopWordCountLocalApplication.class
+org\puppy\hadoop\log\LogEntry.class
+org\puppy\hadoop\maxtemperature\MaxTemperatureMapper.class
+org\puppy\hadoop\wordcount\HadoopWordCountApplication.class
+org\puppy\hadoop\log\AccessLogPartitioner.class
